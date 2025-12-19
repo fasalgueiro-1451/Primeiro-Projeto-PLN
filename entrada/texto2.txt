@@ -1,0 +1,1 @@
+"A Biulinha estudou muito para o curso da Enap e agora ela sabe como usar a biblioteca NLTK para limpar textos automaticamente."
